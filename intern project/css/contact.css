@@ -6,15 +6,18 @@
 	padding-left: 640px;
 	padding-top: 25px;
     font-size: 27px;
+    text-align: center;
 }
 .input{
 	background-color: #e5e5e5;
 }
 .form{
 	padding-right: 30px;
+	float: left;
 }
 .maps{
 	padding-left: 20px;
+	float: right;
 }
 
 
